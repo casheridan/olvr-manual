@@ -1,5 +1,13 @@
 h1 {
   color: #ffffff;
   font-family: helvetica;
-  font-size: 50pt;
+  font-size: 20pt;
+}
+
+p {
+  color: #ffffff;
+  font-size: 15pt;
+  font-family: helvetica;
+  margin-left: 25px;
+  margin-right: 25px;
 }
