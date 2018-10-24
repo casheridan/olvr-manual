@@ -13,10 +13,10 @@ h1 {
 
 h2 {
   color: #ffffff;
-  font-family: helvetica;
   font-size: 15pt;
-  text-align: center;
-  margin-top: 100px;
+  font-family: helvetica;
+  margin-left: 25px;
+  margin-right: 25px;
 }
 
 p {
@@ -41,8 +41,8 @@ div {
 
 li {
   color: #ffffff;
-  font-family: helvetica;
   font-size: 15pt;
-  text-align: center;
-  margin-top: 100px;
+  font-family: helvetica;
+  margin-left: 25px;
+  margin-right: 25px;
 }
