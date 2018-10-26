@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+	<head>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="CSS/main_css.css"/>
+		<title> Oculus Rift </title>
+	</head>
+
+	<body>
+		<div>
+			<img id="logo" src="Images/olvr_logo.png"/>
+			    <a href="#">Home</a>
+			<a href="HTC Vive Headset.html">HTC Headset</a>
+			<a href="HTC Vive Controllers.html">HTC Controllers</a>
+		</div>
