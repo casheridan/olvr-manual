@@ -56,6 +56,8 @@ a {
     color: #ffffff;
     background-color: transparent;
     text-decoration: none;
+    padding: 15px;
+    text-align: center;
 }
 
 a:visited {
