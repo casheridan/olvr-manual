@@ -34,6 +34,13 @@ p {
   margin-right: 25px;
 }
 
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
 #logo {
   display: block;
   margin-left: auto;
@@ -41,7 +48,7 @@ p {
   width: 50%;
 }
 
-div {
+.topofsite {
   background-color: #23272a;
   padding: 60px;
 }
