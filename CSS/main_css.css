@@ -59,6 +59,13 @@ img {
   font-family: helvetica;
 }
 
+.pdf {
+  margin-right: 15px;
+  margin-left: 600px;
+  font-size: 13pt;
+  font-family: helvetica;
+}
+
 a {
     color: #ffffff;
     background-color: transparent;
